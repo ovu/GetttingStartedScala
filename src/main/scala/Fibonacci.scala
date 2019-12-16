@@ -1,0 +1,2 @@
+object Fibonacci extends  App {
+}
